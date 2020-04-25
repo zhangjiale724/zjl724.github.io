@@ -1509,6 +1509,7 @@ body .button-hover:hover::before {
     background: rgba(255,255,255,0.1);
     border-radius: 4px;
     transition: all 0.5s;
+    display: none;
   }
   #post .post-copyright:hover,
   .post-content .post-copyright:hover {
@@ -3520,6 +3521,7 @@ body .button-hover:hover::before {
     background: rgba(255,255,255,0.1);
     border-radius: 4px;
     transition: all 0.5s;
+    display: none;
   }
   #post .post-copyright:hover,
   .post-content .post-copyright:hover {
