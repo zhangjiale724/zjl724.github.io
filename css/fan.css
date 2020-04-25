@@ -2173,49 +2173,6 @@ body .button-hover:hover::before {
     display: none;
     background: rgba(255,255,255,0.2);
   }
-  #comments-container {
-    background: rgba(255,255,255,0.6) !important;
-  }
-  #comments-container .gitment-root-container {
-    margin: 0;
-  }
-  #comments-container .gitment-root-container .gitment-header-container {
-    margin: 0 0 19px 0;
-  }
-  #comments-container .gitment-root-container .gitment-footer-container {
-    margin-bottom: 0;
-  }
-  #comments-container .gitment-comment-header {
-    padding: 4px 8px;
-    background-color: rgba(255,255,255,0.1);
-  }
-  #comments-container .gitment-editor-main::before,
-  #comments-container .gitment-comment-main::before {
-    border-right-color: rgba(255,255,255,0.1);
-  }
-  #comments-container .gitment-editor-main::after,
-  #comments-container .gitment-comment-main::after {
-    border-right-color: rgba(255,255,255,0.1);
-  }
-  #comments-container .gitment-comment-main,
-  #comments-container .gitment-editor-main {
-    border: 1px solid rgba(255,255,255,0.5);
-    border-radius: 4px;
-  }
-  #comments-container .gitment-editor-header {
-    border-bottom: 1px solid rgba(255,255,255,0.1);
-  }
-  #comments-container .gitment-editor-tab.gitment-selected {
-    background-color: transparent;
-    border-color: transparent;
-    border-bottom: 2px solid #e67700;
-  }
-  #comments-container .gitment-editor-body textarea {
-    background-color: transparent;
-  }
-  #comments-container .gitment-editor-body textarea:focus {
-    background-color: transparent;
-  }
 }
 @media screen and (min-width: 900px) and (max-width: 1199px) {
   #post figure.highlight.js table::before {
@@ -4230,49 +4187,6 @@ body .button-hover:hover::before {
     display: none;
     background: rgba(255,255,255,0.2);
   }
-  #comments-container {
-    background: rgba(255,255,255,0.6) !important;
-  }
-  #comments-container .gitment-root-container {
-    margin: 0;
-  }
-  #comments-container .gitment-root-container .gitment-header-container {
-    margin: 0 0 19px 0;
-  }
-  #comments-container .gitment-root-container .gitment-footer-container {
-    margin-bottom: 0;
-  }
-  #comments-container .gitment-comment-header {
-    padding: 4px 8px;
-    background-color: rgba(255,255,255,0.1);
-  }
-  #comments-container .gitment-editor-main::before,
-  #comments-container .gitment-comment-main::before {
-    border-right-color: rgba(255,255,255,0.1);
-  }
-  #comments-container .gitment-editor-main::after,
-  #comments-container .gitment-comment-main::after {
-    border-right-color: rgba(255,255,255,0.1);
-  }
-  #comments-container .gitment-comment-main,
-  #comments-container .gitment-editor-main {
-    border: 1px solid rgba(255,255,255,0.5);
-    border-radius: 4px;
-  }
-  #comments-container .gitment-editor-header {
-    border-bottom: 1px solid rgba(255,255,255,0.1);
-  }
-  #comments-container .gitment-editor-tab.gitment-selected {
-    background-color: transparent;
-    border-color: transparent;
-    border-bottom: 2px solid #e67700;
-  }
-  #comments-container .gitment-editor-body textarea {
-    background-color: transparent;
-  }
-  #comments-container .gitment-editor-body textarea:focus {
-    background-color: transparent;
-  }
 }
 @media screen and (max-width: 899px) {
   #post figure.highlight.js table::before {
@@ -6270,49 +6184,6 @@ body .button-hover:hover::before {
     z-index: 1000;
     display: none;
     background: rgba(255,255,255,0.2);
-  }
-  #comments-container {
-    background: rgba(255,255,255,0.6) !important;
-  }
-  #comments-container .gitment-root-container {
-    margin: 0;
-  }
-  #comments-container .gitment-root-container .gitment-header-container {
-    margin: 0 0 19px 0;
-  }
-  #comments-container .gitment-root-container .gitment-footer-container {
-    margin-bottom: 0;
-  }
-  #comments-container .gitment-comment-header {
-    padding: 4px 8px;
-    background-color: rgba(255,255,255,0.1);
-  }
-  #comments-container .gitment-editor-main::before,
-  #comments-container .gitment-comment-main::before {
-    border-right-color: rgba(255,255,255,0.1);
-  }
-  #comments-container .gitment-editor-main::after,
-  #comments-container .gitment-comment-main::after {
-    border-right-color: rgba(255,255,255,0.1);
-  }
-  #comments-container .gitment-comment-main,
-  #comments-container .gitment-editor-main {
-    border: 1px solid rgba(255,255,255,0.5);
-    border-radius: 4px;
-  }
-  #comments-container .gitment-editor-header {
-    border-bottom: 1px solid rgba(255,255,255,0.1);
-  }
-  #comments-container .gitment-editor-tab.gitment-selected {
-    background-color: transparent;
-    border-color: transparent;
-    border-bottom: 2px solid #e67700;
-  }
-  #comments-container .gitment-editor-body textarea {
-    background-color: transparent;
-  }
-  #comments-container .gitment-editor-body textarea:focus {
-    background-color: transparent;
   }
 }
 /*@media screen and (max-width: 499px) {
